@@ -1,0 +1,12 @@
+Flask>=0.12.3
+Flask-BasicAuth>=0.2.0
+flask-cors>=3.0.3
+Jinja2>=2.9.5
+flask-restx>=0.2.0
+MarkupSafe==0.23
+Werkzeug>=0.16.1
+click==6.7
+itsdangerous==0.24
+requests==2.20.0
+wsgiref==0.1.2 ; python_version < '3.2'
+plaid-python>=3.0.0
